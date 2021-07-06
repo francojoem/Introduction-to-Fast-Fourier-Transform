@@ -57,3 +57,6 @@ where X is the DFT of any x(t) continuous periodic function.
 So as the DFT is symmetric, you don't need to calculate its complementary part because it would be equal. Hence, by this method, the algorithm can achieve such fast computations. This reduction in the computation is highly significant because when the size of the data 'n' is large, the time required would be quite large without FFT.
 
 The implementation of the FFT is available on this GitHub repo. 
+
+<h3>Credits</h3>
+https://ai-pool.com/a/s/introduction-of-fast-fourier-transformation--fft
